@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "task3\\task3.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
